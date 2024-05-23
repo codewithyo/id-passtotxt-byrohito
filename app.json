@@ -12,24 +12,24 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "27498866",
-            "value": "27498866"
+            "description": "23634056",
+            "value": "23634056"
         },
         "API_HASH": {
-            "description": "96fbb6ad2e11ab04e83ca09ef3f42455",
-            "value": "96fbb6ad2e11ab04e83ca09ef3f42455"
+            "description": "f2debf49c2f57bad88086ecd17cb5df3",
+            "value": "f2debf49c2f57bad88086ecd17cb5df3"
         },
         "BOT_TOKEN": {
-            "description": "6528420500:AAH0-q4m1mytX1rLdG2x-qJkPBdofzHo3fc",
-            "value": "6528420500:AAH0-q4m1mytX1rLdG2x-qJkPBdofzHo3fc"
+            "description": "7174606656:AAES4xrsYwn9gi8O9knJBM0wwC2NihyGKTw",
+            "value": "7174606656:AAES4xrsYwn9gi8O9knJBM0wwC2NihyGKTw"
         },
         "OWNER_ID": {
-            "description": "6488911325",
-            "value": "6488911325"
+            "description": "5082207960",
+            "value": "5082207960"
         },
         "SUDO_USERS": {
-            "description": "6488911325",
-            "value": "6488911325"
+            "description": "5082207960",
+            "value": "5082207960"
         }
     },
     "addons": [],
